@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "459764889868",
+    "project_id": "ayuvani-c757a",
+    "storage_bucket": "ayuvani-c757a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459764889868:android:303eb2717cdf151d3bf129",
+        "android_client_info": {
+          "package_name": "com.digitlers.flutter_ayuvani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459764889868-qcnt0028799hhro3brmo2ablfhj2han4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitlers.flutter_ayuvani",
+            "certificate_hash": "03dcdaae233e806f6d9a5437eb17137f75dde84b"
+          }
+        },
+        {
+          "client_id": "459764889868-rcfj468h6vhnjvovehudj6q2qdb6o6h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubg9MODJa0RUBOAPzNqSDF_Zy0Cv0tO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459764889868-rcfj468h6vhnjvovehudj6q2qdb6o6h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

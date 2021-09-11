@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ayuvani</string>
+    <string name="facebook_app_id">511161253465292</string>
+    <string name="fb_login_protocol_scheme">fb511161253465292</string>
+
+    <!--    <string name="facebook_app_id">9875632145689457</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb9875632145689457</string>-->
+</resources>
